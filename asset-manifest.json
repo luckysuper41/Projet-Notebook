@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Projet-Notebook/static/css/main.258aca4c.chunk.css",
+    "main.js": "/Projet-Notebook/static/js/main.65438877.chunk.js",
+    "main.js.map": "/Projet-Notebook/static/js/main.65438877.chunk.js.map",
+    "runtime-main.js": "/Projet-Notebook/static/js/runtime-main.9fb9b1a4.js",
+    "runtime-main.js.map": "/Projet-Notebook/static/js/runtime-main.9fb9b1a4.js.map",
+    "static/js/2.abc4e81f.chunk.js": "/Projet-Notebook/static/js/2.abc4e81f.chunk.js",
+    "static/js/2.abc4e81f.chunk.js.map": "/Projet-Notebook/static/js/2.abc4e81f.chunk.js.map",
+    "index.html": "/Projet-Notebook/index.html",
+    "precache-manifest.60e98f0b63079bb21ca32da46bcad2fa.js": "/Projet-Notebook/precache-manifest.60e98f0b63079bb21ca32da46bcad2fa.js",
+    "service-worker.js": "/Projet-Notebook/service-worker.js",
+    "static/css/main.258aca4c.chunk.css.map": "/Projet-Notebook/static/css/main.258aca4c.chunk.css.map",
+    "static/js/2.abc4e81f.chunk.js.LICENSE.txt": "/Projet-Notebook/static/js/2.abc4e81f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fb9b1a4.js",
+    "static/js/2.abc4e81f.chunk.js",
+    "static/css/main.258aca4c.chunk.css",
+    "static/js/main.65438877.chunk.js"
+  ]
+}
