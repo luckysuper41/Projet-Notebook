@@ -1,0 +1,20 @@
+/* src/components/ShowNote.css */
+textarea {
+     background-color: rgba(0, 0, 0, 0);
+     border-width: 0;
+     overflow: hidden;
+     resize: none;
+     min-height: 250px;
+     width: 100%;
+     text-align: left;
+     
+ }
+ textarea:focus{
+     outline: none;
+ }
+
+ .card-display{
+     margin: 5% 0 0 0;
+     width: 100%;
+     display: block;
+ }
